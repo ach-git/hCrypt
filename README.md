@@ -1,0 +1,2 @@
+# hCrypt
+Simple cryptage script
