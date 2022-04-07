@@ -1,6 +1,6 @@
 # hCrypt
 
-hCrypt is a simple script in python work with sha256. This is one of my first python scripts.
+hCrypt is a simple script in python work with utf-8(for legal reason). This is one of my first python scripts.
 
 ### Support:
 
